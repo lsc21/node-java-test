@@ -8,18 +8,7 @@
   },
   "main": "index.js",
   "dependencies": {
-    "@hapi/boom": "^7.4.3",
-    "@hapi/joi": "^16.1.8",
-    "@sentry/node": "^5.7.1",
-    "@trade-platform/lib": "^2.35.15",
-    "@trade-platform/lib-hemera": "^2.1.2",
-    "await-spawn": "^3.0.0",
-    "axios": "^0.19.0",
-    "dotenv": "^8.0.0",
-    "find-java-home": "^0.2.0",
-    "java": "0.12.0",
-    "nodemon": "^2.0.0",
-    "nyc": "^14.1.1"
+    "java": "0.12.0"
   },
   "engines": {
    "node": "^12.14.0"
